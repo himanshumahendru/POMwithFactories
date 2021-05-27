@@ -1,0 +1,2 @@
+INFO    2021-05-17 23:40:58,401 [main] base.BaseTest  - Navigated to TestSite URL - https://www.carwale.com/
+INFO    2021-05-17 23:41:22,507 [main] base.BaseTest  - test case execution completed!!
